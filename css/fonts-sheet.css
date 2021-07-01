@@ -1,0 +1,26 @@
+/* Fonts */
+
+@font-face {
+  font-family: "Montserrat-Black";
+  src: url("/assets/fonts/Montserrat/Montserrat-Black.ttf");
+}
+
+@font-face {
+  font-family: "Montserrat-Regular";
+  src: url("/assets/fonts/Montserrat/Montserrat-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Montserrat-Light";
+  src: url("/assets/fonts/Montserrat/Montserrat-Light.ttf");
+}
+
+@font-face {
+  font-family: "Montserrat-Bold";
+  src: url("/assets/fonts/Montserrat/Montserrat-Bold.ttf");
+}
+
+@font-face {
+  font-family: "Ubuntu-Regular";
+  src: url("/assets/fonts/Ubuntu/Ubuntu-Regular.ttf");
+}

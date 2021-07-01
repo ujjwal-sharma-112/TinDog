@@ -1,0 +1,14 @@
+@media (max-width: 1028px) {
+  img.title-image {
+    position: static;
+  }
+}
+
+@media (max-width: 990px) {
+  #title {
+    text-align: center;
+  }
+  img.title-image {
+    transform: rotate(0deg);
+  }
+}
